@@ -44,9 +44,9 @@ bin/target_fluid_animation
 
 Here are some of the example simulations generated using Jet framework. Corresponding example codes can be found under src/examples. All images are rendered using [Mitsuba renderer](https://www.mitsuba-renderer.org/) and the Mitsuba scene files can be found from [the demo repository](https://github.com/doyubkim/fluid-engine-dev-demo/). Find out more demos from [the project website](http://fluidenginedevelopment.org/examples/).
 
-### FLIP Simulation Example
+### Source: Water Tank, Target: Stars
 
-![FLIP Example](https://github.com/doyubkim/fluid-engine-dev/raw/main/doc/img/flip_dam_breaking.png "FLIP Example")
+![FLIP Example](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/tank_star.png "FLIP Example")
 
 ### PIC Simulation Example
 
