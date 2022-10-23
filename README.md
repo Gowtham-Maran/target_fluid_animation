@@ -44,28 +44,25 @@ bin/target_fluid_animation
 
 Here are some of the example simulations generated using Jet framework. Corresponding example codes can be found under src/examples. All images are rendered using [Mitsuba renderer](https://www.mitsuba-renderer.org/) and the Mitsuba scene files can be found from [the demo repository](https://github.com/doyubkim/fluid-engine-dev-demo/). Find out more demos from [the project website](http://fluidenginedevelopment.org/examples/).
 
-### Source: Water Tank, Target: Stars
+### Source: Water Tank | Target: Stars
 
-![FLIP Example](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/tank_star.png "FLIP Example")
+![Source: Water Tank | Target: Stars](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/tank_star.png "Source: Water Tank | Target: Stars")
 
-### PIC Simulation Example
+### Source: Double Dam Break | Target: Bunny
 
-![PIC Example](https://github.com/doyubkim/fluid-engine-dev/raw/main/doc/img/pic_dam_breaking.png "PIC Example")
+![Source: Double Dam Break | Target: Bunny](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/doubleDam_bunny.png "Source: Double Dam Break | Target: Bunny")
 
-### Level Set Example with Different Viscosity
+### Source: Single Dam Break | Target: Dragon
 
-![Level Set Example](https://github.com/doyubkim/fluid-engine-dev/raw/main/doc/img/ls_bunny_drop.png "Level Set Example ")
+![Source: Single Dam Break | Target: Dragon](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/singleDam_dragon.png "Source: Single Dam Break | Target: Dragon")
 
-### Smoke Simulation with Different Advection Methods
+### Source: Water Fall | Target: Horse
 
-![Cubic-smoke Example](https://github.com/doyubkim/fluid-engine-dev/raw/main/doc/img/smoke_cubic.png "Cubic-smoke Example")
-![Linear-smoke Example](https://github.com/doyubkim/fluid-engine-dev/raw/main/doc/img/smoke_linear.png "Linear-smoke Example")
+![Source: Water Fall | Target: Horse](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/waterFall_horse.png "Source: Water Fall | Target: Horse")
 
-### Point-to-Surface Examples
+### Source: River | Target: Face
 
-![Point-to-Surface Example](https://github.com/doyubkim/fluid-engine-dev/raw/main/doc/img/point_to_surface.png "Point-to-Surface Example")
-
-> Top-left: spherical, top-right: SPH blobby, bottom-left: Zhu and Bridson's method, and bottom-right: Anisotropic kernel
+![Source: River | Target: Face](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/river_face.png "Source: River | Target: Face")
 
 ## Acknowledgement
 I would like to thank my Master of Computer Science thesis supervisor Professor David Mould, for his direction and support. The inspiration for this thesis originated in a conversation between Dr Mould and Dr. Eric Paquette. I would like to thank Dr. Eric Paquette for that valuable contribution. I would like to thank Doyub Kim for his book ‘Fluid Engine Development’ and his Jet framework C++ libraries which was of great help in code implementation of this system.
