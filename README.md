@@ -16,7 +16,7 @@ First, clone the code:
 
 ```
 git clone https://github.com/Gowtham-Maran/target_fluid_animation.git --recursive
-cd fluid-engine-dev
+cd target_fluid_animation
 ```
 
 ### C++ API
@@ -67,4 +67,4 @@ Here are some of the example simulations generated using our approach. Correspon
 ![Source: River | Target: Face](https://github.com/Gowtham-Maran/target_fluid_animation/blob/main/doc/img/river_face.png "Source: River | Target: Face")
 
 ## Acknowledgement
-I would like to thank my Master of Computer Science thesis supervisor Professor David Mould, for his direction and support. The inspiration for this thesis originated in a conversation between Dr Mould and Dr. Eric Paquette. I would like to thank Dr. Eric Paquette for that valuable contribution. I would like to thank Doyub Kim for his book ‘Fluid Engine Development’ and his Jet framework C++ libraries which was of great help in code implementation of this system. I’m grateful for the portion of the Research Assistantship fund support given from the Carleton University GIGL Lab.
+I would like to thank my Master of Computer Science thesis supervisor Professor David Mould, for his direction and support. The inspiration for this thesis originated in a conversation between Dr Mould and Dr. Eric Paquette. I would like to thank Dr. Eric Paquette for that valuable contribution. I would like to thank Doyub Kim for his book ‘Fluid Engine Development’ and his Jet framework C++ libraries which was of great help in the code implementation of this system. I’m grateful for the portion of the Research Assistantship fund support given from the Carleton University GIGL Lab.
