@@ -24,7 +24,10 @@ cd target_fluid_animation
 For macOS or Linux:
 
 ```
-mkdir build && cd build && cmake .. && make
+mkdir build
+cd build
+cmake ..
+make
 ```
 
 For Windows:
